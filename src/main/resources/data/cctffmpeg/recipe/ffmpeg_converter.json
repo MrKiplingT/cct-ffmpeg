@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": ["SMS", "CDC", "SPS"],
+  "key": {
+    "S": { "item": "minecraft:smooth_stone" },
+    "M": { "item": "computercraft:advanced_monitor" },
+    "C": { "item": "minecraft:comparator" },
+    "D": { "item": "computercraft:disk_drive" },
+    "P": { "item": "computercraft:speaker" }
+  },
+  "result": { "id": "cctffmpeg:ffmpeg_converter", "count": 1 }
+}

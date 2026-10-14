@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "cctffmpeg:block/ffmpeg_converter" },
+    "facing=south": { "model": "cctffmpeg:block/ffmpeg_converter", "y": 180 },
+    "facing=west": { "model": "cctffmpeg:block/ffmpeg_converter", "y": 270 },
+    "facing=east": { "model": "cctffmpeg:block/ffmpeg_converter", "y": 90 }
+  }
+}

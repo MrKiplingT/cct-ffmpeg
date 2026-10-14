@@ -39,6 +39,7 @@ The inserted CC:Tweaked disk stores data in the world save under `cctffmpeg/disk
 Use Java 21 and run `./gradlew build` (Windows: `gradlew.bat build`). The build needs network access to fetch Gradle, NeoForge, and the CC:Tweaked API dependencies.
 
 ## Bundled FFmpeg
+(Not actualy coz of upload limit but i added a link to download it.)
 
 The Linux binary's accompanying LGPL v3 license is in `src/main/resources/licenses/FFmpeg-LGPLv3.txt`. FFmpeg is a separate upstream executable; retain its license and corresponding upstream notices when redistributing this mod. The Windows executable was supplied separately and should be verified against the intended FFmpeg build/license before public redistribution.
 

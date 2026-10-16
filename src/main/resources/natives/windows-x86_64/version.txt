@@ -1,0 +1,3 @@
+Auto-Build 2026-10-16 13:04
+GPL, shared (84.8MiB)
+https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-10-16-13-04/ffmpeg-N-127579-g5cb9fcd211-win64-gpl-shared.zip

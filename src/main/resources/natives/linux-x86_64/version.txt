@@ -1,0 +1,3 @@
+Latest Auto-Build (2026-10-16 13:04)
+GPL, shared (65.7MiB)
+https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n9.0-latest-linux64-gpl-shared-9.0.tar.xz

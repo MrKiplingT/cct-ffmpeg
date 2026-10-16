@@ -1,2 +1,0 @@
-git-hub wont let me upload the actual ffmpeg files because they are to big :(
-https://ffmpeg.org/download.html#build-windows
